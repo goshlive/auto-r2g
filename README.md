@@ -1,0 +1,1 @@
+This code is used by the publication found here: https://doi.org/10.1109/CINTI-MACRo57952.2022.10029438. It performs automatic conversion from relational database into graph (Neo4J). A blank Neo4J database is required before running the algorithm.
